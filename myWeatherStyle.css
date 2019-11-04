@@ -1,0 +1,38 @@
+#app {
+    font-family:lobster;
+    color: #cc6699;
+}
+
+.widget {
+    margin: auto;
+    max-width: 50%;
+    height: auto;
+    background-image: url("https://farm5.staticflickr.com/4583/38607052626_8ebfd382e1_c.jpg");
+    text-align: center;
+    font-family: Quicksand, Times New Roman;
+    color: #336600;
+    font-size: 150%;
+    border-style: solid;
+    border-color: #cc6699;
+    border-radius: 15%;
+    border-width: 1px;
+}
+
+#measure {
+    border-style: solid;
+    border-color: #cc6699;
+    border-radius: 15%;
+    border-width: 1px;
+}
+
+#click {
+   color: #cc6699;
+   font-size: 50%;
+   font-style: italic;
+}
+
+#created {
+    color: #cc6699;
+    font-size: 50%;
+    font-style: italic;
+}
